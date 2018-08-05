@@ -1,4 +1,6 @@
-[{
+{
+	"usergroups": [
+		{
 		"groupid": "1",
 		"grouponame": "G1",
 		"users": [{
@@ -29,3 +31,4 @@
 		]
 	}
 ]
+}
