@@ -1,7 +1,7 @@
 {
 	"usergroups": [
 		{
-		"groupid": "1",
+		"id": "1",
 		"grouponame": "G1",
 		"users": [{
 				"userid": "101",
@@ -16,7 +16,7 @@
 		]
 	},
 	{
-		"groupid": "2",
+		"id": "2",
 		"grouponame": "G2",
 		"users": [{
 				"userid": "101",
