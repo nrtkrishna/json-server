@@ -1,0 +1,31 @@
+[{
+		"groupid": "1",
+		"grouponame": "G1",
+		"users": [{
+				"userid": "101",
+				"username": "Marc",
+				"phone": "1111"
+			},
+			{
+				"userid": "102",
+				"username": "Pat",
+				"phone": "2222"
+			}
+		]
+	},
+	{
+		"groupid": "2",
+		"grouponame": "G2",
+		"users": [{
+				"userid": "101",
+				"username": "Marc",
+				"phone": "1111"
+			},
+			{
+				"userid": "103",
+				"username": "Krish",
+				"phone": "3333"
+			}
+		]
+	}
+]
